@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 
 zbx_server = os.getenv("ZTG_SERVER", "http://127.0.0.1/zabbix/")
